@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Rice",
+        "quantity": 10,
+        "price": 25
+    },
+    {
+        "name": "Soap",
+        "quantity": 20,
+        "price": 5
+    },
+    {
+        "name": "Notebook",
+        "quantity": 15,
+        "price": 8
+    },
+    {
+        "name": "pencil",
+        "quantity": 20,
+        "price": 40
+    },
+    {
+        "name": "rubber",
+        "quantity": 10,
+        "price": 5
+    }
+]
